@@ -31,7 +31,7 @@ Windows Server (youtube)](https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJca
 * [Total Seminars Comptia Pentest + (Udemy)](https://www.udemy.com/course/ethical-hacking-and-comptia-pentest-exam-prep-pt0-001/)
 * [freecodecamp - Full Ethical Hacking Course - Network Penetration Testing for Beginners (Youtube)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&ab_channel=freeCodeCamp.org)
 
-### [Certificación Comptia Security + pdf] (https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
+### [Certificación Comptia Security + pdf](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 
 ### [Lista de reproducción de videos de seguridad y hacking (80% bug bounties)](https://www.youtube.com/playlist?list=PLIcYJYYAJ6blYMKXa-5eXtqSzrlNiyZoB)
 
