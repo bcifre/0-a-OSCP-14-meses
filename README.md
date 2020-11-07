@@ -22,7 +22,7 @@ Comptia Seu
 * [Eli the Computer Guy -
 Windows Server (youtube)](https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN&ab_channel=ElitheComputerGuy)
 * [ICT Solutions Trainer - Windows Server (Youtube)](https://www.youtube.com/watch?v=lrtYDS5WKR0&list=PLYogJ_kxL1wTesq-vNxEc8tjDOHvszeWf&ab_channel=ICTSolutionsTrainer)
-* [tutoriaLinux-  The Linux Basics Course: Beginner to Sysadmin, Step by Step (Youtube)[https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK&ab_channel=tutoriaLinux]
+* [tutoriaLinux-  The Linux Basics Course: Beginner to Sysadmin, Step by Step (Youtube)](https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK&ab_channel=tutoriaLinux)
 
 ## Pentesting y seguridad
 
@@ -46,7 +46,7 @@ Las cosas que veía que no entendía las anotaba y luego profundizaba pero no mu
 Éste mes no intenté resolver ninguna máquina, sólo miré videos y profundizaba un poco en los temas que me interesaban o no tenía claro y seguia con el siguiente video.
 Los videos de Victor García son los que me ayudaron más porque son videos cortos que van directo a la solución de la máquina
 
-* [Victor García - Preparación oscp (Youtube)][https://www.youtube.com/c/takito1812/videos]
+* [Victor García - Preparación oscp (Youtube)](https://www.youtube.com/c/takito1812/videos)
 
 
 
