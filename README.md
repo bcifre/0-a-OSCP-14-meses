@@ -94,10 +94,39 @@ Los videos de Victor García son los que me ayudaron más porque son videos cort
 
 El segundo més pagué una suscripción en [Try Hack Me](https://tryhackme.com/) e hice el path de [Offensive Pentesting](https://tryhackme.com/path/outline/pentesting).
 Me sobró tiempo en ese mes y aproveché para hacer otros rooms, para tener una idea hice 4900 puntos en ese mes.
+Tambíen estuve haciendo el reto [Bandit](https://overthewire.org/wargames/bandit/) de OverTheWire para practicar un poco de bash.
 
 # Mes 3
 
-En el último mes de mi preparación para el oscp, pagué un mes en Hack The Box y me dediqué a resolver todas las máquinas que pude
+En el último mes de mi preparación para el oscp, pagué un mes en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 26 usuarios y 28 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas sólo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
+A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de Writeup en Notion.
+Éste mes también me dediué a profundizar en 3 grandes temas de la certificación que debemos dominarlos completamente:
+Escalación de privilegios en Linux
+Escalación de privilegios en Windows 
+Buffer Overflow
+
+Para que me de el tiempo para todo, si no podía resolver una máquina en menos de 2 horas, buscaba alguna pista y seguía y el resto del tiempo dediqué a profundizar en los 3 temas que mencioné.
+
+Principalmente los recursos que utilicé para estos 3 temas fueron:
+
+###Escalamiento de privilegios en Linux:
+De los siguientes lo que más recomiendo es el curso de Udemy de Tib3rius y realizar los rooms de tryhackme, los rooms son practicamente iguales pero no se pierde nada realizando los 2.
+
+* [hackingarticles](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
+* [hacktricks](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
+* [sushant747](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
+* [g0tmi1k.](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
+* [room thm The Cyber Mentor](https://tryhackme.com/room/linuxprivescarena)
+* [room thm Tib3rius](https://tryhackme.com/room/linuxprivesc)
+* [curso Udemy The Cyber Mentor](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/)
+* [curso Udemy Tib3rius](https://www.udemy.com/course/linux-privilege-escalation/)
+
+
+A medida que iba avanzando en mi preparación me fui dando cuenta de cuáles cosas eran en las que tenía que centrarme y cuáles no.
+No r
+
+
+
 
 
 
