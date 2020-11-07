@@ -1,6 +1,7 @@
 # Conocimientos previos (8 meses)
 El tiempo que dedicaba a estudiar por día en este período fue de 2 a 3 horas por día 5 días a la semana, y en el tiempo que preparé la certidicación de 
-Comptia Seu
+Comptia Security + estudiaba de 4 a 5 horas por día 7 días a la semana, me llevó 3 meses preparar la certificación y me habré tomado unos 7 días libres en ese período.
+
 ## Networking
 
 * [thenewboston (Youtube)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
@@ -42,9 +43,9 @@ Antes de iniciar la certificación, solo tenía "resueltas" 5 máquinas de hack 
 
 ## Mes 1
 El primer mes me dediqué a mirar todos los videos que pude sobre las máquinas que recomiendan de hack the box para el oscp ([Lista de NetSecFocus de maquinas recomendadas](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)).
-Las cosas que veía que no entendía las anotaba y luego profundizaba pero no mucho ya que el primer mes quería tener un pantallazo general de lo todo lo que necesitaba aprender, ya que la mayoría de maquinas tiene un vector de ataque diferente.
+Las cosas que veía que no entendía las anotaba y luego profundizaba pero no mucho ya que el primer mes quería tener un pantallazo general de lo todo lo que necesitaba aprender, ya que la mayoría de maquinas  tiene un vector de ataquediferente.
 Éste mes no intenté resolver ninguna máquina, sólo miré videos y profundizaba un poco en los temas que me interesaban o no tenía claro y seguia con el siguiente video.
-Los videos de Victor García son los que me ayudaron más porque son videos cortos que van directo a la solución de la máquina
+Los videos de Victor García son los que me ayudaron más porque son videos cortos que van directo a la solución de la máquina, y en el caso de querer profundizar en conceptos utilizaba los videos de [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) y [s4vitar](https://www.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q)
 
 * [Victor García - Preparación oscp (Youtube)](https://www.youtube.com/c/takito1812/videos)
 
