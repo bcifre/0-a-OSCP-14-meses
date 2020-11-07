@@ -27,19 +27,21 @@ Windows Server (youtube)](https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJca
 
 ## Pentesting y seguridad
 
-* [Professor Messer Comptia Security + (Youtube)](https://www.youtube.com/watch?v=JU5zkddWits&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=1&ab_channel=ProfessorMesser)
+
 * [CCNA Security (Youtube)](https://www.youtube.com/watch?v=Lb_KzcbJlfQ&list=PLNkXmZZpB7dyRsMsPQ2YIanLT5tH1gT4j&ab_channel=CCNANEW)
 * [Jason Dion Comptia Pentest + (Udemy)](https://www.udemy.com/course/pentestplus/learn/lecture/10953736#overview)
 * [Total Seminars Comptia Pentest + (Udemy)](https://www.udemy.com/course/ethical-hacking-and-comptia-pentest-exam-prep-pt0-001/)
 * [freecodecamp - Full Ethical Hacking Course - Network Penetration Testing for Beginners (Youtube)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&ab_channel=freeCodeCamp.org)
 
-### Certificación Comptia Security +
+## Certificación Comptia Security +
 
  [pdf con el temario de la certificación](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 
 Materiales que usé para la preparar la certificación
 
 Cursos:
+* [Professor Messer Comptia Security + (Youtube)](https://www.youtube.com/watch?v=JU5zkddWits&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy&index=1&ab_channel=ProfessorMesser)
+* [ItProTv CompTIA Security+](https://www.itpro.tv/courses/comptia/security-updated-2017/)
 
 Libros:
 
