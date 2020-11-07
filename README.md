@@ -80,6 +80,8 @@ Libros:
 
 
 # Preparación OSCP (3 meses)
+En éste perídoso le dedique a estudiar en promedio 3 horas por día de lunes a viernes y los fines de semana unas 8 a 9 horas.
+
 Antes de iniciar la certificación, solo tenía "resueltas" 5 máquinas de hack the box, que las hice siguiendo detenidamente videos en youtube y fué antes de hacer la certificación de Comptia Security +, por lo tanto mis conocimientos en seguridad eran nulos y esas maquinas no cuentan, pero al menos me dieron un pantallazo general de lo que es el hacking aunque no tenía ni idea de lo que estaba haciendo.
 
 ## Mes 1
