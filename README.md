@@ -12,7 +12,8 @@
 
 ### Libros
 
-*[Kurose - Computer Networking: A Top-Down Approach](https://www.amazon.com/-/es/James-F-Kurose/dp/0132856204)
+* [Kurose - Computer Networking: A Top-Down Approach](https://www.amazon.com/-/es/James-F-Kurose/dp/0132856204)
+* [Richard Stevens - TCP/IP Illustrated](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313)
 
 
 ## Administración de sistemas
