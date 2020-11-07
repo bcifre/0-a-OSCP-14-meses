@@ -109,8 +109,9 @@ Para que me de el tiempo para todo, si no podía resolver una máquina en menos 
 
 Principalmente los recursos que utilicé para estos 3 temas fueron:
 
-###Escalamiento de privilegios en Linux:
+### Escalamiento de privilegios en Linux:
 De los siguientes lo que más recomiendo es el curso de Udemy de Tib3rius y realizar los rooms de tryhackme, los rooms son practicamente iguales pero no se pierde nada realizando los 2.
+Recomiendo aprender a encontrar las vulnerabilidades manualmente y luego buscarlas con las tools para entenderlas mejor.
 
 * [hackingarticles](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
 * [hacktricks](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
@@ -121,9 +122,34 @@ De los siguientes lo que más recomiendo es el curso de Udemy de Tib3rius y real
 * [curso Udemy The Cyber Mentor](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/)
 * [curso Udemy Tib3rius](https://www.udemy.com/course/linux-privilege-escalation/)
 
+### Escalamiento de privilegios en Windows:
+Igual que con linux, lo que más recomiendo es el curso de Tib3rius y los rooms de tryhackme, en mi opinión en más dificil escalamiento de privilegios en windows que en linux, ya que windows es más complicado como maneja el tema de los permisos.
+He visto que muchos recomiendan dedicarle más tiempo a escalamiento de privilegios en windows y estoy de acuerdo con eso.
 
-A medida que iba avanzando en mi preparación me fui dando cuenta de cuáles cosas eran en las que tenía que centrarme y cuáles no.
-No r
+* [absolomb](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
+* [fuzzysecurity](http://www.fuzzysecurity.com/tutorials/16.html)
+* [sushant747](https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html)
+* [hacktricks](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation#services)
+* [curso Udemy Tib3rius](https://www.udemy.com/course/windows-privilege-escalation/)
+* [curso Udemy The Cyber Mentor](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/)
+* [room thm The Cyber Mentor](https://tryhackme.com/room/windowsprivescarena)
+* [room thm Tib3rius](https://tryhackme.com/room/windows10privesc)
+* [charla ekoparty 2020](https://www.youtube.com/watch?v=9hD_Kf9hdZw&list=PLIcYJYYAJ6bm5X6Pb3iSXbSmsrO5xf6kN&index=9&t=1123s&ab_channel=ekopartysecurityconference)
+
+### Buffer overflow
+Cuando ves por primera vez buffer overflow pensas que es algo que está fuera del alcance siendo principiante, pero realmente es uno de los temas más faciles ya que es muy metódigo.
+Simplemente hay que seguir una serie de pasos y siempre es igual.
+Recomiendo mucho el room de tryhackme de tib3rius, tiene 10 ejercicios y te aseguro que después de hacer los 10 vas a ver que no es nada complicado, y es un 25% del examen.
+También recomiendo hacer brainpan1, gatekeeper, brainstorm que son parte del path que hice en el mes 2, pero recomiendo dejalos para después de hacer el room de tib3rius.
+Les dejo un [video de tib3rius explicando su room](https://www.youtube.com/watch?v=1X2JGF_9JGM&ab_channel=Tib3rius)
+
+* [buffer overflow tryhackme](https://tryhackme.com/room/bufferoverflowprep)
+* [brainpan1](https://tryhackme.com/room/brainpan)
+* [gatekeeper](https://tryhackme.com/room/gatekeeper)
+* [brainstorm](https://tryhackme.com/room/brainstorm)(necesita suscripción)
+
+
+### Comentarios finales
 
 
 
