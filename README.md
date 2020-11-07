@@ -32,7 +32,7 @@ Windows Server (youtube)](https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJca
 * [freecodecamp - Full Ethical Hacking Course - Network Penetration Testing for Beginners (Youtube)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&ab_channel=freeCodeCamp.org)
 
 
-
+## [Lista de reproducción de videos de seguridad y hacking (80% bug bounties)](https://www.youtube.com/playlist?list=PLIcYJYYAJ6blYMKXa-5eXtqSzrlNiyZoB)
 
 
 
