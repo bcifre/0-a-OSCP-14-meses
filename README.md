@@ -80,9 +80,13 @@ Libros:
 
 
 # Preparación OSCP (3 meses)
-En éste perídoso le dedique a estudiar en promedio 3 horas por día de lunes a viernes y los fines de semana unas 8 a 9 horas.
+En éste período le dedique a estudiar en promedio 3 horas por día de lunes a viernes y los fines de semana unas 8 a 9 horas.
+Algo importante es saber reconocer cuando debemos descansar, en mi caso a medida de que me iba exigiendo cada vez más me daba cuenta que a cada 8 o 9 días debía parar y tomar un descanso porque sentía que no tenía ganas de estudiar y estaba muy estresado.
+Esto depende de cada uno, des bueno reconocer cuando a uno le llega el burnout y tomarse un descanso, al otro día vas a estar con más energías y ganas de estudiar. 
+En éstos 3 meses me habré tomado unos 6 días libres.
 
-Antes de iniciar la certificación, solo tenía "resueltas" 5 máquinas de hack the box, que las hice siguiendo detenidamente videos en youtube y fué antes de hacer la certificación de Comptia Security +, por lo tanto mis conocimientos en seguridad eran nulos y esas maquinas no cuentan, pero al menos me dieron un pantallazo general de lo que es el hacking aunque no tenía ni idea de lo que estaba haciendo.
+En éste punto solo tenía "resueltas" 5 máquinas de hack the box, que las hice siguiendo detenidamente videos en youtube y fué antes de hacer la certificación de Comptia Security +, por lo tanto mis conocimientos prácticos en pentesting eran muy pocos y esas maquinas no cuentan, pero al menos me dieron un pantallazo general de lo que es el hacking aunque no tenía ni idea de lo que estaba haciendo.
+Para tener una idea de cuáles eran mis conocimientos en éste punto, tenía conocientos generales en seguridad gracias a la certificación de comptia security +, y con respecto a pentesting más que nada tenía conocimientos en ataques web (owasp top 10) ya que quería aprovechar mi conocimiento de programador y creía que ese era el mejor camino y quizás poder intentar participar en alguna plataforma como HackerOne o BugCrowd, pero me di cuenta que todavía me faltaba mucho para eso y por eso decidí hacer el OSCP y poder cambiar de trabajo a un puesto de seguridad luego de que la consiga, ya que en la actualidad aún me encuentro trabajando como desarrollador web.
 
 ## Mes 1
 El primer mes me dediqué a mirar todos los videos que pude sobre las máquinas que recomiendan de hack the box para el oscp ([Lista de NetSecFocus de maquinas recomendadas](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)).
@@ -152,6 +156,27 @@ Les dejo un [video de tib3rius explicando su room](https://www.youtube.com/watch
 
 
 ### Comentarios finales
+
+Si vemos el [temario](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf) del OSCP, 3 de los principales temas de la certificación son buffer overflow, escalación de privilegios en linux, y escalación de privilegios en windows, es altamente recomendable sentirse cómodo con estos 3 temas para aprovechar al máximo la certificación.
+Algo que recomiendo es no dedicarle mucho tiempo a a ataques de active directory, ya que no va para el examen, si aprender lo básico y luego aprender lo del material del curso, pero es un tema muy extenso y es mejor centrarse en otros temas, como los 3 que mencioné.
+Si quieres profundizar en aprender active directory, adelante siempre es bueno profundizar en los temas que nos interesan pero no es bueno perder la perspectiva cuando hay tantas cosas que debemos aprender.
+Otra cosa que recomiendo es trabajar en la metodología, en mi último mes de mi preparación todas las máquinas que fuí resolviendo, traté de llevar una metodología ordenada, sacando apuntes en Notion y básicamente todas las máquinas se resuelven en éstos pasos:
+Reconocimiento y enumeración inicial:
+Intrusión al sistema
+Enumeración del sistema (windows o linux)
+Escalada de privilegios para conseguir el usuario con máximos privilegios.
+
+Algo que no he nombrado hasta ahora y que es muy importante es la enumeración, es la parte menos metódica en mi opinion porque depende mucho de los vectores de ataque que siempre son diferentes, ésta es la parte en la que debemos parar y aprender los temas nuevos, llevandolo a un ejeplo, estamos enumerando una máquina y nos encontramos con el puerto 1433 y nmap nos dice que es Microsoft SQL Server, si nunca intentamos explotar ese servicio, vamos a tener que investigar de que se trata y si tiene alguna vulnerabilidad, como la mayoría de las máquinas tiene vectores de ataque diferente, es un proceso que vamos a tener que repetir.
+
+Siento que quizaś me faltó un més más de preparación para intentar resolver más máquinas sin ayuda, ya que la mayoría las hice con alguna pista, pero bueno la realidad es que nunca vas a sentirte 100% preparado.
+El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de ordenar todos los apuntes y comando que tengo, hacer un mindmap de escalamiento de privilegios en windows y linux, hacer todos los ejercicios del material y tratar de hacer todas las máquinas que pueda, pero siempre centrandome en la metodología que es lo más importante.
+
+Cuando consiga la certificación, contaré como fué mi experiencia con el curso y con el examen.
+Gracias por leer, y ánimos a aquellos que se decidieron realizar la certificación, la seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender para poder seguir adelante.
+Por momentos en todo esta experiencia me sentí muy estresado, sentía que era demasiado para mi, mucho por aprender con la poca base que tenía.
+Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo, siempre tratando de enfocarse en tener una metodología, tener claro que esto lleva tiempo y que la recompensa tarde o temprano va a llegar.
+Nada es más satifactorio que mirar hacia atras y ver todo lo que aprendiste, y realmente en mi opinión y la de muchos también, si te interesa la seguridad ir por el OSCP es el primer paso, y realmente vale la pena porque se aprende mucho en el camino.
+
 
 
 
