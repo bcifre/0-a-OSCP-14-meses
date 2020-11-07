@@ -1,11 +1,24 @@
 # Conocimientos previos (8 meses)
-Cuando decidí introducirme en el mundo de la seguridad, mis conocimientos previos en el área de tecnologías de la información era de programador web, principalmente los lenguajes de programación php y javascript.
-Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) y me dió curiosidad de aprender sobre hacking y el hecho de no entender nada de los videos que subía sobre hack the box, empecé a interesarme por la seguridad y empezar a estudiar las bases ya que no tengo un título universitario, practicamente el conocimiento que tenía en programación lo había obtenido como autodidacta y experiencia de trabajo.
-A medida que iba investigando sobre seguridad me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP
+Cuando decidí introducirme en el mundo de la seguridad, tenía un background de 4 años como programador web(sin título universitario, 100% autodidacta), en los lenguajes de programación php y javascript principalmente.
+Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) por casualidad en Youtube y me dió curiosidad de aprender sobre hacking y el hecho de no entender nada de los videos que subía sobre Hack the Box, empecé a interesarme por la seguridad y empezar a estudiar las bases ya que no tengo un título universitario, practicamente el conocimiento que tenía en programación lo había obtenido como autodidacta y experiencia de trabajo.
+A medida que iba investigando sobre seguridad me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP.
 No sabía python, ni bash, ni powershell, no entendía como funcionaba el protocolo http, no entendía como funcionaban los puertos de una computadora, sólo sabía que http funcionabas en el puerto 80 pero no sabía que era un puerto, ni sabía cual era la diferencia entre http y https, sólo que https era más seguro que http pero no sabía porqué.
 Ya tenía algunos años de experiencia como programador pero no estaba cerca de ser un programador avanzado.
 El tiempo que dedicaba a estudiar por día en este período fué de 2 a 3 horas por día 6 días a la semana en promedio, aveces más aveces menos.
-Aclaro éstas cosas para tener una idea de cuales eran mis conocimientos en mi punto de partida, ya que cuando uno comienza a aprender sobre seguridad
+Aclaro éstas cosas para tener una idea de cuales eran mis conocimientos en mi punto de partida, ya que cuando uno comienza a aprender sobre seguridad no sabe por donde empezar y nos preguntamos cuáles son los conociminetos previos que necesitamos para subir al siguiente nivel.
+Basicamente para queder aprender sobre seguridad, especificamente pentesting que es sobre lo que se trata la certificación OSCP, debemos aprender 3 grandes ramas de la computación: Redes de computadoras, administración de sistemas (Linux y Windows) y programación.
+No es necesario ser experto en las 3 áreas pero sí tener conocimientos sobre las mismas, debemos entender  el protocolo TCP-IP, sebemos saber cuales son los principales servicios que tiene un servidor web, debemos sobe DNS, HTTP, FTP, SMTP, SSH, etc.
+Alguna vez tuvimos que tratar de entender como funciona un router, un swith, entender las diferentes capas del modelo OSI, cuales són los protocolos del internet, es imposible profundizar en todo, pero aveces está bueno profundizar en algunos temas, en los que te dé mas curiosidad, hay que tener curiosidad y ganas de aprender cuando uno quiere aprender seguridad, porque es la única manera de mantenerse aprendiendo y con la motivación para seguir adelante y no sentirse abrumado con tantas cosas por aprender.
+
+Como yá lo mencioné, la seguridad informática se para principalmente en 3 grandes ramas, en mi caso ya tenía cubierta el área de programación, aunque en mí opinion de las 3 ramas es la menos importante.
+Cada úno sabrá cuál es su background y cuáles son los conocimientos que debe reforzar.
+Ésta es mi experiencia, a la fecha de hoy aún no he obtenido el OSCP, pero tomando en cuenta desde que comencé en esta aventura hasta la posible fecha de que obtenga la certificación si es que la obtengo en el primer intento, serían 14 meses de tener conocimientos nulos en seguridad hasta conseguir mi OSCP.
+En el caso de que comiences sin ningún conocimiento en ninguna de las 3 áreas anteriores, quzás te lleve un tiempo más ya que deberás abarcar tambíen el área de programación. pero bueno, todo depende de cada uno, de su velocidad de aprendizaje, de cuanto profundizamos en cada tema, de que forma aprendemos y de cuánto tiempo le dediquemos a estudiar.
+
+Principalmente éstos son los recursos que utilicé, en total fueron muchos más ya que aveces me interesaba aprender sobre un tema en particular y bueno,en esos casos Google es tu mejor amigo.
+No está de menos mencionar que es muy importante saber inglés ya que hay mucho más información y de mejor calidad, y las certficaciónes son en inglés.
+Mi nivel de inglés es el mínimo para poder leer y escuchar, cuando empecé mi nivel era bajísimo y empezar a estudiar seguridad hizo que mejorara mi nivel de inglés, así que si tienes un nivel bajo en inglés te recomendaría dedicarle un tiempo extra a mejorar el idioma.
+
 
 ## Networking
 
@@ -57,7 +70,12 @@ Libros:
 * [Exam Cram](https://www.amazon.com/-/es/Diane-Barrett/dp/0789759004/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=comptia+security+%2B&qid=1604781407&s=books&sr=1-3)
 * [Study Guide](https://www.amazon.com/-/es/Emmett-Dulaney/dp/1119416876/ref=sr_1_9?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=comptia+security+%2B&qid=1604781407&s=books&sr=1-9)
 
-### [Lista de reproducción de videos de seguridad y hacking (80% bug bounties)](https://www.youtube.com/playlist?list=PLIcYJYYAJ6blYMKXa-5eXtqSzrlNiyZoB)
+
+# Otros recursos que utilicé en éste período
+
+* [Lista de reproducción de videos de seguridad y hacking (80% pentesting web)](https://www.youtube.com/playlist?list=PLIcYJYYAJ6blYMKXa-5eXtqSzrlNiyZoB)
+* [pentesterlab](https://pentesterlab.com/)
+* [labs de PortSwigger](https://portswigger.net/web-security)
 
 
 
