@@ -1,3 +1,8 @@
+# De 0 a OSCP en 14 meses?
+
+A continuación voy a contar mi experiencia desde que decidí introducirme al mundo de la seguridad, hasta el día de hoy que me ecuentro en el mes 11,recibiendo hoy el material para realizar el curso [PWK(Penetration Testing with Kali Linux)](https://www.offensive-security.com/pwk-oscp/)
+Si todo sale segun lo planificado en febrero del 2021 estaré dando el examen.
+
 # Conocimientos previos (8 meses)
 Cuando decidí introducirme en el mundo de la seguridad, tenía un background de 4 años como programador web(sin título universitario, 100% autodidacta), en los lenguajes de programación php y javascript principalmente.
 Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) por casualidad en Youtube y me dió curiosidad de aprender sobre hacking y el hecho de no entender nada de los videos que subía sobre Hack the Box, empecé a interesarme por la seguridad y empezar a estudiar las bases ya que no tengo un título universitario, practicamente el conocimiento que tenía en programación lo había obtenido como autodidacta y experiencia de trabajo.
@@ -168,8 +173,17 @@ Escalada de privilegios para conseguir el usuario con máximos privilegios.
 
 Algo que no he nombrado hasta ahora y que es muy importante es la enumeración, es la parte menos metódica en mi opinion porque depende mucho de los vectores de ataque que siempre son diferentes, ésta es la parte en la que debemos parar y aprender los temas nuevos, llevandolo a un ejeplo, estamos enumerando una máquina y nos encontramos con el puerto 1433 y nmap nos dice que es Microsoft SQL Server, si nunca intentamos explotar ese servicio, vamos a tener que investigar de que se trata y si tiene alguna vulnerabilidad, como la mayoría de las máquinas tiene vectores de ataque diferente, es un proceso que vamos a tener que repetir.
 
+Consejos adicionales y cosas que creo que debes sentirte cómodo:
+- bash scripting
+- powershell y cmd (recomiendo el room de powershell en tryhackme)
+- leer código en python
+- sentirse cómodo con tools como nmap, tools de directory bruteforcing, tools de brouteforce como hydra, password cracking, tools de escalamiento de privilegios que vas a aprender en los cursos que te pasé
+- sentirse cómodo compartiendo archivos entre kali linux y la máquina victima, como por ejemplo levantando un servidor samba, levantando un servidor http y luego desde la máquina víctima obtener los archivos como con wget, curl, downloadString de powershell, certutil, scp, ftp, etc.
+- debemos sentirnos cómodos creando reverse shells con retcat, nishang, webshells, etc.
+- no usar metasplot, usarlo sólo en algunas máquinas como prueba de concepto pero sólo eso, para aprender a usarlo.
+
 Siento que quizaś me faltó un més más de preparación para intentar resolver más máquinas sin ayuda, ya que la mayoría las hice con alguna pista, pero bueno la realidad es que nunca vas a sentirte 100% preparado.
-El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de ordenar todos los apuntes y comando que tengo, hacer un mindmap de escalamiento de privilegios en windows y linux, hacer todos los ejercicios del material y tratar de hacer todas las máquinas que pueda, pero siempre centrandome en la metodología que es lo más importante.
+El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de ordenar todos los apuntes y comandos que tengo, hacer un mindmap de escalamiento de privilegios en windows y linux, hacer todos los ejercicios del material y tratar de hacer todas las máquinas que pueda, pero siempre centrandome en la metodología que es lo más importante.
 
 Cuando consiga la certificación, contaré como fué mi experiencia con el curso y con el examen.
 Gracias por leer, y ánimos a aquellos que se decidieron realizar la certificación, la seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender para poder seguir adelante.
