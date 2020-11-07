@@ -1,5 +1,6 @@
 # Conocimientos previos (8 meses)
-
+El tiempo que dedicaba a estudiar por día en este período fue de 2 a 3 horas por día 5 días a la semana, y en el tiempo que preparé la certidicación de 
+Comptia Seu
 ## Networking
 
 * [thenewboston (Youtube)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
@@ -40,7 +41,10 @@ Windows Server (youtube)](https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJca
 Antes de iniciar la certificación, solo tenía "resueltas" 5 máquinas de hack the box, que las hice siguiendo detenidamente videos en youtube y fué antes de hacer la certificación de Comptia Security +, por lo tanto mis conocimientos en seguridad eran nulos y esas maquinas no cuentan, pero al menos me dieron un pantallazo general de lo que es el hacking aunque no tenía ni idea de lo que estaba haciendo.
 
 ## Mes 1
-El primer mes me dediqué a mirar todos los videos que pude sobre las máquinas que recomiendan de hack the box para el oscp ([Lista de NetSecFocus de maquinas recomendadas](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159))
+El primer mes me dediqué a mirar todos los videos que pude sobre las máquinas que recomiendan de hack the box para el oscp ([Lista de NetSecFocus de maquinas recomendadas](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)).
+Las cosas que veía que no entendía las anotaba y luego profundizaba pero no mucho ya que el primer mes quería tener un pantallazo general de lo todo lo que necesitaba aprender, ya que la mayoría de maquinas tiene un vector de ataque diferente.
+Éste mes no intenté resolver ninguna máquina, sólo miré videos y profundizaba un poco en los temas que me interesaban o no tenía claro y seguia con el siguiente video.
+Los videos de Victor García son los que me ayudaron más porque son videos cortos que van directo a la solución de la máquina
 
 * [Victor García - Preparación oscp (Youtube)][https://www.youtube.com/c/takito1812/videos]
 
