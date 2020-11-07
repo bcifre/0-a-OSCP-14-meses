@@ -1,6 +1,11 @@
 # Conocimientos previos (8 meses)
-El tiempo que dedicaba a estudiar por día en este período fue de 2 a 3 horas por día 5 días a la semana, y en el tiempo que preparé la certidicación de 
-Comptia Security + estudiaba de 4 a 5 horas por día 7 días a la semana, me llevó 3 meses preparar la certificación y me habré tomado unos 7 días libres en ese período.
+Cuando decidí introducirme en el mundo de la seguridad, mis conocimientos previos en el área de tecnologías de la información era de programador web, principalmente los lenguajes de programación php y javascript.
+Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) y me dió curiosidad de aprender sobre hacking y el hecho de no entender nada de los videos que subía sobre hack the box, empecé a interesarme por la seguridad y empezar a estudiar las bases ya que no tengo un título universitario, practicamente el conocimiento que tenía en programación lo había obtenido como autodidacta y experiencia de trabajo.
+A medida que iba investigando sobre seguridad me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP
+No sabía python, ni bash, ni powershell, no entendía como funcionaba el protocolo http, no entendía como funcionaban los puertos de una computadora, sólo sabía que http funcionabas en el puerto 80 pero no sabía que era un puerto, ni sabía cual era la diferencia entre http y https, sólo que https era más seguro que http pero no sabía porqué.
+Ya tenía algunos años de experiencia como programador pero no estaba cerca de ser un programador avanzado.
+El tiempo que dedicaba a estudiar por día en este período fué de 2 a 3 horas por día 6 días a la semana en promedio, aveces más aveces menos.
+Aclaro éstas cosas para tener una idea de cuales eran mis conocimientos en mi punto de partida, ya que cuando uno comienza a aprender sobre seguridad
 
 ## Networking
 
@@ -12,7 +17,7 @@ Comptia Security + estudiaba de 4 a 5 horas por día 7 días a la semana, me lle
 * [Professor Messer CompTIA Network+ (Youtube)](https://www.youtube.com/watch?v=IErQm8wsaxg&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd&ab_channel=ProfessorMesser)
 * [CompTIA Network+ Certification (Udemy)](https://www.udemy.com/comptia-network-cert-n10-007-the-total-course/)
 
-### Libros
+Libros
 
 * [Kurose - Computer Networking: A Top-Down Approach](https://www.amazon.com/-/es/James-F-Kurose/dp/0132856204)
 * [Richard Stevens - TCP/IP Illustrated](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313)
@@ -34,6 +39,8 @@ Windows Server (youtube)](https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJca
 * [freecodecamp - Full Ethical Hacking Course - Network Penetration Testing for Beginners (Youtube)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&ab_channel=freeCodeCamp.org)
 
 ## Certificación Comptia Security +
+
+Me llevó unos 3 meses estudiar para ésta certificación, la cual me ayudó para obtener conocimientos generales sobre seguridad informática, para poder salvar la certificación es necesario aprender el temario que dejo a continación y principalmente el material que utilicé fueron los siguientes:
 
  [pdf con el temario de la certificación](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 
