@@ -18,7 +18,7 @@ Básicamente para querer aprender sobre seguridad, específicamente pentesting q
 - Administración de sistemas (Linux y Windows) 
 - Programación.
 
-No es necesario ser experto en las 3 áreas pero sí tener conocimientos generales sobre las mismas, debemos entender  el protocolo TCP-IP, sebemos saber cuales son los principales servicios que tiene un servidor, debemos saber sobe DNS, HTTP, FTP, SMTP, SSH, etc.
+No es necesario ser experto en las 3 áreas pero sí tener conocimientos generales sobre las mismas, debemos entender  el protocolo TCP-IP, sabemos saber cuales son los principales servicios que tiene un servidor, debemos saber sobe DNS, HTTP, FTP, SMTP, SSH, etc.
 
 Alguna vez tuvimos que tratar de entender como funciona un router, un switch, entender las diferentes capas del modelo OSI, es imposible profundizar en todo, pero aveces está bueno profundizar en algunos temas, en los que te dé mas curiosidad. Hay que tener curiosidad y ganas de aprender cuando uno quiere dedicarse a la seguridad, porque el camino es largo y algunas cosas son complicadas de entender.
 
@@ -28,15 +28,15 @@ Cada uno sabrá cuál es su background y cuales son los conocimientos que debe r
 Ésta es mi experiencia, a la fecha de hoy aún no he obtenido el OSCP, pero tomando en cuenta desde que comencé en esta aventura hasta la posible fecha de que obtenga la certificación, serían 14 meses de tener 0 conocimientos en seguridad hasta conseguir mi OSCP.
 En el caso de que comiences sin ningún conocimiento en ninguna de las 3 áreas anteriores, quzás te lleve un tiempo más pero bueno, todo depende de cada uno, de su velocidad de aprendizaje, de cuanto profundizamos en cada tema  y de cuánto tiempo le dediquemos a estudiar.
 
-Cuando decidí aprender sobre seguridad, el tiempo que dedicaba a estudiar por día fué de 2 a 3 horas 6 días a la semana en promedio, aveces más aveces menos.
+Cuando decidí aprender sobre seguridad, el tiempo que dedicaba a estudiar por día fue de 2 a 3 horas 6 días a la semana en promedio, aveces más aveces menos.
 Principalmente éstos son los recursos que utilicé, en total fueron muchos más ya que aveces me interesaba aprender sobre un tema en particular y bueno,en esos casos Google es tu mejor amigo.
 
-No está de menos mencionar que es muy importante saber inglés ya que hay mucha más información y de mejor calidad, y las certficaciónes son en ese idioma.
+No está de menos mencionar que es muy importante saber inglés ya que hay mucha más información y de mejor calidad, y las certificaciones son en ese idioma.
 Mi nivel de inglés es el mínimo para poder leer, escuchar y entender, cuando comencé mi nivel era bajísimo y empezar a estudiar seguridad hizo que mejorara mi nivel, así que si tienes un nivel bajo en inglés te recomendaría dedicarle un tiempo extra a mejorar el idioma y así poder aprovechar mejor los recursos.
 
 Todo lo que está a continuación, son los mejores cursos que encontré y los hice o leí en su totalidad.
 Recomiendo mucho leer el libro de Kurose y mirar el curso de Facultad de Ingeniería, para aquellos que no tengan conocimientos en redes de computadoras.
-Es imposible que en tan poco tiempo puedas estudiar a detalle todos éstos temas, lo importante es empezar con uno, profundizar en alunos puntos si es de tu interés y seguir con el siguiente.
+Es imposible que en tan poco tiempo puedas estudiar a detalle todos éstos temas, lo importante es empezar con uno, profundizar en algunos puntos si es de tu interés y seguir con el siguiente.
 En algunos casos tuve que volver a ver o leer algunos temas varias veces.
 
 ## Networking
@@ -93,8 +93,8 @@ Libros:
 No es necesario realizar ésta certificación para  hacer el OSCP, pero en mi caso como no tenía nada de conocimientos en seguridad decidí hacerla, ya que una certificación te da un temario en el cuál podes centrarte y poder dedicarte a esos temas, y obviamente también suma para el currículum.
 
 ## Otros recursos que utilicé en éste período
-Todo lo anterior fue 95% teórico, algo que me costó mucho fue dejar de leer y mirar videos y pasar a la acción, es muy dificil dar ese paso ya que hay que sentirse con confianza y tener los conocimientos para saber que es lo que hay que hacer.
-Pentesterlab y el laboratorio de PortSwigger fueron los primeros recursos que me ayudaron a practicar lo aprendido y aprender cosas nuevas, aunque pricipalmente eson laboratorios son orientados a pentesting web, para el OSCP no recomiendo pasar mucho tiempo en éstos, pero bueno, en ese momento no me había decidido hacer el OSCP.
+Todo lo anterior fue 95% teórico, algo que me costó mucho fue dejar de leer y mirar videos y pasar a la acción, es muy difícil dar ese paso ya que hay que sentirse con confianza y tener los conocimientos para saber que es lo que hay que hacer.
+Pentesterlab y el laboratorio de PortSwigger fueron los primeros recursos que me ayudaron a practicar lo aprendido y aprender cosas nuevas, aunque principalmente esos laboratorios son orientados a pentesting web, para el OSCP no recomiendo pasar mucho tiempo en éstos, pero bueno, en ese momento no me había decidido hacer el OSCP.
 
 * [pentesterlab](https://pentesterlab.com/)
 * [labs de PortSwigger](https://portswigger.net/web-security)
@@ -116,7 +116,7 @@ Para tener una idea de cuáles eran mis conocimientos en éste punto más que na
 El primer mes me dediqué a mirar todos los videos que pude sobre las máquinas que recomiendan de Hack The Box para el oscp ([Lista de NetSecFocus de maquinas recomendadas](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)).
 Las cosas que veía que no entendía las anotaba y luego profundizaba pero no mucho ya que el primer mes quería tener un pantallazo general de lo todo lo que necesitaba aprender, ya que la mayoría de maquinas tienen un vector de ataque diferente.
 
-Éste mes no intenté resolver ninguna máquina, solo miré videos y profundizaba un poco en los temas que me interesaban o no tenía claro y seguia con el siguiente video.
+Éste mes no intenté resolver ninguna máquina, solo miré videos y profundizaba un poco en los temas que me interesaban o no tenía claro y seguía con el siguiente video.
 Los videos de [Victor García](https://www.youtube.com/c/takito1812/videos) son los que me ayudaron más porque son videos cortos que van directo a la solución de la máquina, y en el caso de querer profundizar en conceptos utilizaba google, los videos de [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) y [s4vitar](https://www.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q)
 
 
