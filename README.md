@@ -72,7 +72,8 @@ Windows Server (youtube)](https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJca
 
 ## Certificación Comptia Security +
 
-Me llevó unos 3 meses estudiar para ésta certificación, la cual me ayudó para obtener conocimientos generales sobre seguridad informática, para poder salvar la certificación es necesario aprender el temario que dejo a continación y principalmente el material que utilicé fueron los siguientes:
+Me llevó unos 3 meses estudiar para ésta certificación, la cual me ayudó para obtener conocimientos generales sobre seguridad informática.
+Para poder aprobar la certificación es necesario aprender el temario que dejo a continación y principalmente el material que utilicé fueron los siguientes:
 
  [pdf con el temario de la certificación](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 
@@ -89,7 +90,7 @@ Libros:
 * [Exam Cram](https://www.amazon.com/-/es/Diane-Barrett/dp/0789759004/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=comptia+security+%2B&qid=1604781407&s=books&sr=1-3)
 * [Study Guide](https://www.amazon.com/-/es/Emmett-Dulaney/dp/1119416876/ref=sr_1_9?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=comptia+security+%2B&qid=1604781407&s=books&sr=1-9)
 
-No es necesario realizar ésta certificación para  hacer el OSCP, pero en mi caso como no tenía nada de conocimientos en seguridad decidí hacerla, ya que una certificación te da un temario en el cuál podes centrarte y poder dedicarte a esos temas, y obiamente también suma para el curriculum.
+No es necesario realizar ésta certificación para  hacer el OSCP, pero en mi caso como no tenía nada de conocimientos en seguridad decidí hacerla, ya que una certificación te da un temario en el cuál podes centrarte y poder dedicarte a esos temas, y obviamente también suma para el currículum.
 
 ## Otros recursos que utilicé en éste período
 Todo lo anterior fue 95% teórico, algo que me costó mucho fue dejar de leer y mirar videos y pasar a la acción, es muy dificil dar ese paso ya que hay que sentirse con confianza y tener los conocimientos para saber que es lo que hay que hacer.
