@@ -73,7 +73,7 @@ Windows Server (youtube)](https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJca
 ## Certificación Comptia Security +
 
 Me llevó unos 3 meses estudiar para ésta certificación, la cual me ayudó para obtener conocimientos generales sobre seguridad informática.
-Para poder aprobar la certificación es necesario aprender el temario que dejo a continación y principalmente el material que utilicé fueron los siguientes:
+Para poder aprobar la certificación es necesario aprender el temario que dejo a continuación y principalmente el material que utilicé fueron los siguientes:
 
  [pdf con el temario de la certificación](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 
@@ -124,7 +124,7 @@ Los videos de [Victor García](https://www.youtube.com/c/takito1812/videos) son 
 
 El segundo mes pagué una suscripción en [Try Hack Me](https://tryhackme.com/) e hice el path de [Offensive Pentesting](https://tryhackme.com/path/outline/pentesting).
 Me sobró tiempo en ese mes y aproveché para hacer otros rooms, para tener una idea hice 4900 puntos en ese mes.
-Tambíen estuve haciendo el reto [Bandit](https://overthewire.org/wargames/bandit/) de OverTheWire para practicar un poco de bash.
+Tambíén estuve haciendo el reto [Bandit](https://overthewire.org/wargames/bandit/) de OverTheWire para practicar un poco de bash.
 
 ## Mes 3
 
