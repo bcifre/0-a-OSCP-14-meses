@@ -83,7 +83,7 @@ Libros:
 
 No es necesario realizar ésta certificación para  hacer el OSCP, pero en mi caso como no tenía nada de conocimientos en seguridad decidí hacerla, ya que una certificación te da un temario en el cuál podes centrarte y poder dedicarte a esos temas, y obiamente también suma para el curriculum.
 
-# Otros recursos que utilicé en éste período
+## Otros recursos que utilicé en éste período
 Todo lo anterior fue 95% teórico, algo que me costó mucho fue dejar de leer y mirar videos y pasar a la acción, es muy dificil dar ese paso ya que hay que sentirse con confianza y tener los conocimientos para saber que es lo que hay que hacer.
 Pentesterlab y el laboratorio de PortSwigger fueron los primeros recursos que me ayudaron a practicar lo aprendido y aprender cosas nuevas, aunque pricipalmente eson laboratorios orientados a pentesting web, para el OSCP no recomiendo pasar mucho tiempo en éstos, pero bueno, en ese momento no me había decidido hacer el OSCP.
 
