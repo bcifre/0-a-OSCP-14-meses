@@ -202,7 +202,9 @@ Siento que quizaś me faltó un més más de preparación para intentar resolver
 El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de ordenar todos los apuntes y comandos que tengo, hacer un mindmap de escalamiento de privilegios en windows y linux, hacer todos los ejercicios del material y tratar de hacer todas las máquinas que pueda, pero siempre centrandome en la metodología que es lo más importante.
 
 Cuando consiga la certificación, contaré como fue mi experiencia con el curso y con el examen.
-Gracias por leer, y ánimos a aquellos que se decidieron realizar la certificación, la seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender para poder seguir adelante.
+Gracias por leer, y ánimos a aquellos que se decidieron realizar la certificación
+
+La seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender para poder seguir adelante.
 
 Por momentos en todo esta experiencia me sentí muy estresado, sentía que era demasiado para mi, mucho por aprender con la poca base que tenía.
 Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo, siempre tratando de enfocarse en tener una metodología, tener claro que esto lleva tiempo y que la recompensa tarde o temprano va a llegar.
