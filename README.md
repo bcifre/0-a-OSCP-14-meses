@@ -189,7 +189,7 @@ Algo que recomiendo es no dedicarle mucho tiempo a ataques de active directory, 
 Sí está bueno aprender lo básico y luego centrarse en el material del curso, pero no profundizar demasiado ya que es un tema muy extenso y es mejor centrarse en otros temas, como los 3 que mencioné.
 
 Si quieres profundizar en active directory, adelante siempre es bueno profundizar en los temas que nos interesan pero no es bueno perder la perspectiva cuando hay tantas cosas que debemos aprender.
-Otra cosa que recomiendo es trabajar en la metodología, en mi último mes de mi preparación todas las máquinas que fuí resolviendo, traté de llevar una metodología ordenada, sacando apuntes en Notion y básicamente todas las máquinas se resuelven en éstos pasos:
+Otra cosa que recomiendo es trabajar en la metodología, en mi último mes de mi preparación todas las máquinas que fui resolviendo, traté de llevar una metodología ordenada, sacando apuntes en Notion y básicamente todas las máquinas se resuelven en éstos pasos:
 - Reconocimiento y enumeración inicial:
 - Intrusión al sistema
 - Enumeración del sistema (windows o linux)
@@ -208,7 +208,7 @@ Consejos adicionales y cosas que creo que debes sentirte cómodo:
 - debemos sentirnos cómodos creando reverse shells con netcat, nishang, webshells, etc.
 - no usar metasplot, usarlo solo en algunas máquinas como prueba de concepto pero solo eso, para aprender a usarlo.
 
-Siento que quizaś me faltó un més más de preparación para intentar resolver más máquinas sin ayuda, ya que la mayoría las hice con alguna pista, pero bueno la realidad es que nunca vas a sentirte 100% preparado.
+Siento que quizás me faltó un mes más de preparación para intentar resolver más máquinas sin ayuda, ya que la mayoría las hice con alguna pista, pero bueno la realidad es que nunca vas a sentirte 100% preparado.
 El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de ordenar todos los apuntes y comandos que tengo, hacer un mindmap de escalación de privilegios en windows y linux, hacer todos los ejercicios del material y tratar de hacer todas las máquinas que pueda, pero siempre centrandome en la metodología que es lo más importante.
 
 Cuando consiga la certificación, contaré como fue mi experiencia con el curso y con el examen.
@@ -220,11 +220,11 @@ Por momentos en toda ésta experiencia me sentí muy estresado, sentía que era 
 Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo.
 Algunos temas nos van a llevar más tiempo, y otros menos, no está mal dedicarle algunos días a aprender solo algún tema en particular.
 
-Es muy satifactorio mirar hacia atras y ver todo lo que aprendiste, y realmente en mi opinión y la de muchos también, si te interesa la seguridad ir por el OSCP es el primer paso, y realmente vale la pena porque se aprende mucho en el camino.
+Es muy satisfactorio mirar hacia atrás y ver todo lo que aprendiste, y realmente en mi opinión y la de muchos también, si te interesa la seguridad ir por el OSCP es el primer paso, y realmente vale la pena porque se aprende mucho en el camino.
 
 Sé que estoy escribiendo como que ya conseguí la certificación, pero bueno, siento que me he preparado bien y vengo a buen ritmo, me quedan los 3 meses más importantes y creo que van a ser suficientes ya que reducí mi horario de trabajo y voy a poder dedicarle unas 6 o 7 horas por día de estudio.
 
-Espero que ésto te sirva para tener una idea del tiempo que lleva poder prepararse bien para la certificación.
+Espero que esto te sirva para tener una idea del tiempo que lleva poder prepararse bien para la certificación.
 
 
 
