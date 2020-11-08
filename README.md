@@ -204,14 +204,15 @@ El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de o
 Cuando consiga la certificación, contaré como fue mi experiencia con el curso y con el examen.
 Gracias por leer, y ánimos a aquellos que se decidieron realizar la certificación
 
-La seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender para poder seguir adelante.
+La seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender cosas nuevas aunque no las vayas a usar, aveces te vas a sentir perdido o perdida pero de a poco las cosas van cobrando sentido y va a llegar un momento que vas a poder saber diferenciar las cosas que sabes, lo que no sabes y lo que necesitas aprender, llegado a ese punto todo es más facil, per repito, lleva mucho tiempo.
 
 Por momentos en todo esta experiencia me sentí muy estresado, sentía que era demasiado para mi, mucho por aprender con la poca base que tenía.
-Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo, siempre tratando de enfocarse en tener una metodología, tener claro que esto lleva tiempo y que la recompensa tarde o temprano va a llegar.
+Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo, siempre tratando de enfocarse en tener una metodología, algunos temas nos van a llevar más tiempo, y otros menos.
+No esa mal dedicarle algunos días a aprender algún tema en particlar.
 
 Nada es más satifactorio que mirar hacia atras y ver todo lo que aprendiste, y realmente en mi opinión y la de muchos también, si te interesa la seguridad ir por el OSCP es el primer paso, y realmente vale la pena porque se aprende mucho en el camino.
 
-Sé que estoy escribiendo como que yá conseguí la certificación, pero bueno, siento que me he preparado bien y vengo a buen ritmo, me quedan los 3 meses más importantes y creo que van a ser suficientes ya que reducí mi horario de trabajo y voy a poder dedicarle unas 6 o 7 horas por día de estudio.
+Sé que estoy escribiendo como que ya conseguí la certificación, pero bueno, siento que me he preparado bien y vengo a buen ritmo, me quedan los 3 meses más importantes y creo que van a ser suficientes ya que reducí mi horario de trabajo y voy a poder dedicarle unas 6 o 7 horas por día de estudio.
 
 
 
