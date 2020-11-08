@@ -22,17 +22,20 @@ No es necesario ser experto en las 3 áreas pero sí tener conocimientos general
 
 Alguna vez tuvimos que tratar de entender como funciona un router, un switch, entender las diferentes capas del modelo OSI, es imposible profundizar en todo, pero aveces está bueno profundizar en algunos temas, en los que te dé mas curiosidad. Hay que tener curiosidad y ganas de aprender cuando uno quiere dedicarse a la seguridad, porque el camino es largo y algunas cosas son complicadas de entender.
 
-Como yá lo mencioné, las based de la seguridad informática se divide en 3 grandes ramas, en mi caso ya tenía cubierta el área de programación, aunque en mí opinion de las 3 ramas es la menos importante.
-Cada úno sabrá cuál es su background y cuáles son los conocimientos que debe reforzar.
+Como ya lo mencioné, las bases de la seguridad informática se dividen en 3 grandes ramas, en mi caso ya tenía cubierta el área de programación, aunque en mí opinion de las 3 ramas es la menos importante.
+Cada uno sabrá cuál es su background y cuales son los conocimientos que debe reforzar.
 
 Ésta es mi experiencia, a la fecha de hoy aún no he obtenido el OSCP, pero tomando en cuenta desde que comencé en esta aventura hasta la posible fecha de que obtenga la certificación, serían 14 meses de tener 0 conocimientos en seguridad hasta conseguir mi OSCP.
-
-En el caso de que comiences sin ningún conocimiento en ninguna de las 3 áreas anteriores, quzás te lleve un tiempo más ya que deberás abarcar tambíen el área de programación. pero bueno, todo depende de cada uno, de su velocidad de aprendizaje, de cuanto profundizamos en cada tema  y de cuánto tiempo le dediquemos a estudiar.
+En el caso de que comiences sin ningún conocimiento en ninguna de las 3 áreas anteriores, quzás te lleve un tiempo más pero bueno, todo depende de cada uno, de su velocidad de aprendizaje, de cuanto profundizamos en cada tema  y de cuánto tiempo le dediquemos a estudiar.
 
 Cuando decidí aprender sobre seguridad, el tiempo que dedicaba a estudiar por día fué de 2 a 3 horas 6 días a la semana en promedio, aveces más aveces menos.
 Principalmente éstos son los recursos que utilicé, en total fueron muchos más ya que aveces me interesaba aprender sobre un tema en particular y bueno,en esos casos Google es tu mejor amigo.
-No está de menos mencionar que es muy importante saber inglés ya que hay mucho más información y de mejor calidad, y las certficaciónes son en ese idioma.
-Mi nivel de inglés es el mínimo para poder leer, escuchar y entender, cuando comoencé mi nivel era bajísimo y empezar a estudiar seguridad hizo que mejorara mi nivel, así que si tienes un nivel bajo en inglés te recomendaría dedicarle un tiempo extra a mejorar el idioma y así poder aprovechar mejor los recursos.
+
+No está de menos mencionar que es muy importante saber inglés ya que hay mucha más información y de mejor calidad, y las certficaciónes son en ese idioma.
+Mi nivel de inglés es el mínimo para poder leer, escuchar y entender, cuando comencé mi nivel era bajísimo y empezar a estudiar seguridad hizo que mejorara mi nivel, así que si tienes un nivel bajo en inglés te recomendaría dedicarle un tiempo extra a mejorar el idioma y así poder aprovechar mejor los recursos.
+
+Todo lo que nombro a continuación, son los mejores cursos que encontré y los hice o leí en su totalidad.
+Recomiendo mucho leer el libro de Kurose y mirar el curso de Facultad de Ingeniería, para aquellos que no tengan conocimientos en redes de computadoras.
 
 
 ## Networking
