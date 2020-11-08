@@ -17,9 +17,10 @@ Basicamente para querer aprender sobre seguridad, especificamente pentesting que
 - Redes de computadoras
 - Administración de sistemas (Linux y Windows) 
 - Programación.
+
 No es necesario ser experto en las 3 áreas pero sí tener conocimientos generales sobre las mismas, debemos entender  el protocolo TCP-IP, sebemos saber cuales son los principales servicios que tiene un servidor, debemos saber sobe DNS, HTTP, FTP, SMTP, SSH, etc.
 
-Alguna vez tuvimos que tratar de entender como funciona un router, un swith, entender las diferentes capas del modelo OSI, es imposible profundizar en todo, pero aveces está bueno profundizar en algunos temas, en los que te dé mas curiosidad, hay que tener curiosidad y ganas de aprender cuando uno quiere aprender seguridad, porque es la única manera de mantenerse aprendiendo y con la motivación para seguir adelante y no sentirse abrumado con tantas cosas por aprender.
+Alguna vez tuvimos que tratar de entender como funciona un router, un switch, entender las diferentes capas del modelo OSI, es imposible profundizar en todo, pero aveces está bueno profundizar en algunos temas, en los que te dé mas curiosidad, hay que tener curiosidad y ganas de aprender cuando uno quiere aprender seguridad, porque el camino es largo y algunas cosas son complicadas de entender.
 
 Como yá lo mencioné, las based de la seguridad informática se divide en 3 grandes ramas, en mi caso ya tenía cubierta el área de programación, aunque en mí opinion de las 3 ramas es la menos importante.
 Cada úno sabrá cuál es su background y cuáles son los conocimientos que debe reforzar.
