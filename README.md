@@ -176,7 +176,7 @@ Les dejo un [video de tib3rius explicando su room](https://www.youtube.com/watch
 Si vemos el [temario](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf) del OSCP, 3 de los principales temas de la certificación son **buffer overflow**, **escalación de privilegios en linux**, y **escalación de privilegios en windows**, es muy importante sentirse cómodo con estos 3 temas para aprovechar al máximo la certificación.
 
 Algo que recomiendo es no dedicarle mucho tiempo a a ataques de active directory, ya que no va para el examen.
-Sí está bueno aprender lo básico y luego centrarse en el material del curso,ya que es un tema muy extenso y es mejor centrarse en otros temas, como los 3 que mencioné.
+Sí está bueno aprender lo básico y luego centrarse en el material del curso, pero no profundizar demasiado ya que es un tema muy extenso y es mejor centrarse en otros temas, como los 3 que mencioné.
 
 Si quieres profundizar en active directory, adelante siempre es bueno profundizar en los temas que nos interesan pero no es bueno perder la perspectiva cuando hay tantas cosas que debemos aprender.
 Otra cosa que recomiendo es trabajar en la metodología, en mi último mes de mi preparación todas las máquinas que fuí resolviendo, traté de llevar una metodología ordenada, sacando apuntes en Notion y básicamente todas las máquinas se resuelven en éstos pasos:
