@@ -36,7 +36,8 @@ Mi nivel de inglés es el mínimo para poder leer, escuchar y entender, cuando c
 
 Todo lo que está a continuación, son los mejores cursos que encontré y los hice o leí en su totalidad.
 Recomiendo mucho leer el libro de Kurose y mirar el curso de Facultad de Ingeniería, para aquellos que no tengan conocimientos en redes de computadoras.
-Es imposible que en tan poco tiempo puedas retener toda ésta información, yo no lo hice, pero cuando te encuentres con algunos de estos temas te vas a acordar que lo viste y vas a saber donde buscar.
+Es imposible que en tan poco tiempo puedas estudiar a detalle todos éstos temas, lo importante es empezar con uno, profundizar en alunos puntos si es de tu interés y seguir con el siguiente.
+En algunos casos tuve que volver a ver o leer algunos temas varias veces.
 
 ## Networking
 
