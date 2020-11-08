@@ -141,9 +141,9 @@ El resto del tiempo dediqué a profundizar en los 3 temas que mencioné.
 
 Principalmente los recursos que utilicé para estos 3 temas fueron:
 
-### Escalamiento de privilegios en Linux:
+### Escalación de privilegios en Linux:
 De los siguientes lo que más recomiendo es el curso de Udemy de Tiberius y realizar los rooms de tryhackme, los rooms son practicamente iguales pero no se pierde nada realizando los 2.
-Recomiendo aprender a encontrar las vulnerabilidades manualmente y luego buscarlas con las tools que mencionan en los cursos.
+Recomiendo aprender a encontrar las vulnerabilidades manualmente y luego buscarlas con las tools que mencionan los cursos.
 
 * [hackingarticles](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
 * [hacktricks](https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist)
@@ -154,8 +154,8 @@ Recomiendo aprender a encontrar las vulnerabilidades manualmente y luego buscarl
 * [curso Udemy The Cyber Mentor](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/)
 * [curso Udemy Tib3rius](https://www.udemy.com/course/linux-privilege-escalation/)
 
-### Escalamiento de privilegios en Windows:
-Igual que con linux, lo que más recomiendo es el curso de Tib3rius y los rooms de tryhackme, en mi opinión es más dificil la escalación de privilegios en windows que en linux, ya que windows es más complicado como maneja el tema de los permisos.
+### Escalación de privilegios en Windows:
+Igual que con linux, lo que más recomiendo es el curso de Tiberius y los rooms de tryhackme, en mi opinión es más dificil la escalación de privilegios en windows, ya que windows es más complicado como maneja el tema de los permisos.
 He visto que muchos recomiendan dedicarle más tiempo a windows y estoy de acuerdo con eso.
 
 * [absolomb](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
@@ -209,7 +209,7 @@ Consejos adicionales y cosas que creo que debes sentirte cómodo:
 - no usar metasplot, usarlo sólo en algunas máquinas como prueba de concepto pero sólo eso, para aprender a usarlo.
 
 Siento que quizaś me faltó un més más de preparación para intentar resolver más máquinas sin ayuda, ya que la mayoría las hice con alguna pista, pero bueno la realidad es que nunca vas a sentirte 100% preparado.
-El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de ordenar todos los apuntes y comandos que tengo, hacer un mindmap de escalamiento de privilegios en windows y linux, hacer todos los ejercicios del material y tratar de hacer todas las máquinas que pueda, pero siempre centrandome en la metodología que es lo más importante.
+El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de ordenar todos los apuntes y comandos que tengo, hacer un mindmap de escalación de privilegios en windows y linux, hacer todos los ejercicios del material y tratar de hacer todas las máquinas que pueda, pero siempre centrandome en la metodología que es lo más importante.
 
 Cuando consiga la certificación, contaré como fue mi experiencia con el curso y con el examen.
 Gracias por leer, y ánimos a aquellos que se decidieron realizar la certificación
