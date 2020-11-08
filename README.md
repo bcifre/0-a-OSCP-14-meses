@@ -220,7 +220,7 @@ Por momentos en toda ésta experiencia me sentí muy estresado, sentía que era 
 Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo.
 Algunos temas nos van a llevar más tiempo, y otros menos, no está mal dedicarle algunos días a aprender sólo algún tema en particular.
 
-Nada es más satifactorio que mirar hacia atras y ver todo lo que aprendiste, y realmente en mi opinión y la de muchos también, si te interesa la seguridad ir por el OSCP es el primer paso, y realmente vale la pena porque se aprende mucho en el camino.
+Es muy satifactorio mirar hacia atras y ver todo lo que aprendiste, y realmente en mi opinión y la de muchos también, si te interesa la seguridad ir por el OSCP es el primer paso, y realmente vale la pena porque se aprende mucho en el camino.
 
 Sé que estoy escribiendo como que ya conseguí la certificación, pero bueno, siento que me he preparado bien y vengo a buen ritmo, me quedan los 3 meses más importantes y creo que van a ser suficientes ya que reducí mi horario de trabajo y voy a poder dedicarle unas 6 o 7 horas por día de estudio.
 
