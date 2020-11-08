@@ -217,8 +217,8 @@ Gracias por leer, y ánimos a aquellos que se decidieron realizar la certificaci
 La seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender cosas nuevas aunque no las vayas a usar, aveces te vas a sentir perdido o perdida pero de a poco las cosas van cobrando sentido y va a llegar un momento que vas a poder diferenciar las cosas que sabes, lo que no sabes y lo que necesitas aprender, llegado a ese punto todo es más facil, pero repito, lleva mucho tiempo.
 
 Por momentos en toda ésta experiencia me sentí muy estresado, sentía que era demasiado para mi, mucho por aprender con la poca base que tenía.
-Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo, siempre tratando de enfocarse en tener una metodología, algunos temas nos van a llevar más tiempo, y otros menos.
-No está mal dedicarle algunos días a aprender sólo algún tema en particlar.
+Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con tod.
+Algunos temas nos van a llevar más tiempo, y otros menos, no está mal dedicarle algunos días a aprender sólo algún tema en particlar.
 
 Nada es más satifactorio que mirar hacia atras y ver todo lo que aprendiste, y realmente en mi opinión y la de muchos también, si te interesa la seguridad ir por el OSCP es el primer paso, y realmente vale la pena porque se aprende mucho en el camino.
 
