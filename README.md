@@ -214,7 +214,7 @@ El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de o
 Cuando consiga la certificación, contaré como fue mi experiencia con el curso y con el examen.
 Gracias por leer, y ánimos a aquellos que se decidieron realizar la certificación
 
-La seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender cosas nuevas aunque no las vayas a usar, aveces te vas a sentir perdido o perdida pero de a poco las cosas van cobrando sentido y va a llegar un momento que vas a poder diferenciar las cosas que sabes, lo que no sabes y lo que necesitas aprender, llegado a ese punto todo es más facil, pero repito, lleva mucho tiempo.
+La seguridad es un área muy apasionante pero se requiere mucha dedicación y mucho tiempo de estudio para poder ver resultados, te tiene que gustar mucho querer aprender cosas nuevas aunque no las vayas a usar, aveces te vas a sentir perdido o perdida pero de a poco las cosas van cobrando sentido y va a llegar un momento que vas a poder diferenciar las cosas que sabes, lo que no sabes y lo que necesitas aprender, llegado a ese punto todo es más fácil, pero repito, lleva mucho tiempo.
 
 Por momentos en toda ésta experiencia me sentí muy estresado, sentía que era demasiado para mi, mucho por aprender con la poca base que tenía.
 Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo.
