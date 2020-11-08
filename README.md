@@ -94,7 +94,7 @@ No es necesario realizar ésta certificación para  hacer el OSCP, pero en mi ca
 
 ## Otros recursos que utilicé en éste período
 Todo lo anterior fue 95% teórico, algo que me costó mucho fue dejar de leer y mirar videos y pasar a la acción, es muy dificil dar ese paso ya que hay que sentirse con confianza y tener los conocimientos para saber que es lo que hay que hacer.
-Pentesterlab y el laboratorio de PortSwigger fueron los primeros recursos que me ayudaron a practicar lo aprendido y aprender cosas nuevas, aunque pricipalmente eson laboratorios orientados a pentesting web, para el OSCP no recomiendo pasar mucho tiempo en éstos, pero bueno, en ese momento no me había decidido hacer el OSCP.
+Pentesterlab y el laboratorio de PortSwigger fueron los primeros recursos que me ayudaron a practicar lo aprendido y aprender cosas nuevas, aunque pricipalmente eson laboratorios son orientados a pentesting web, para el OSCP no recomiendo pasar mucho tiempo en éstos, pero bueno, en ese momento no me había decidido hacer el OSCP.
 
 * [pentesterlab](https://pentesterlab.com/)
 * [labs de PortSwigger](https://portswigger.net/web-security)
@@ -105,7 +105,7 @@ Pentesterlab y el laboratorio de PortSwigger fueron los primeros recursos que me
 En éste período me dediqué a estudiar en promedio 3 horas por día de lunes a viernes y los fines de semana unas 8 a 9 horas.
 Algo importante es saber reconocer cuando debemos descansar, en mi caso a medida de que me iba exigiendo cada vez más me daba cuenta que a cada 8 o 9 días debía parar y tomar un descanso porque sentía que no tenía ganas de estudiar y estaba muy estresado.
 Esto depende de cada uno, es bueno reconocer cuando a uno le llega el burnout y tomarse un descanso, al otro día vas a estar con más energías. 
-En éstos 3 meses me habré tomado unos 6 días libres.
+En éstos 3 meses me tomé unos 6 días libres aprox.
 
 En éste punto solo tenía "resueltas" 5 máquinas de hack the box, que las hice siguiendo detenidamente videos en youtube y fue antes de hacer la certificación de Comptia Security +, por lo tanto mis conocimientos prácticos en pentesting eran muy pocos y esas maquinas no cuentan, pero al menos me dieron un pantallazo general de lo que es el hacking aunque no tenía ni idea de lo que estaba haciendo.
 
@@ -129,7 +129,7 @@ Tambíen estuve haciendo el reto [Bandit](https://overthewire.org/wargames/bandi
 ## Mes 3
 
 En el último mes de mi preparación, pagué una suscripción en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 26 usuarios y 28 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas sólo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
-A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de Writeup en Notion.
+A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de writeup en Notion (muy importante practicar ésto).
 Éste mes también me dediqué a profundizar en 3 grandes temas de la certificación que debemos dominarlos completamente:
 - Escalación de privilegios en Linux
 - Escalación de privilegios en Windows 
