@@ -130,6 +130,7 @@ Tambíen estuve haciendo el reto [Bandit](https://overthewire.org/wargames/bandi
 
 En el último mes de mi preparación, pagué una suscripción en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 26 usuarios y 28 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas sólo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
 A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de writeup en Notion (muy importante practicar ésto).
+
 Éste mes también me dediqué a profundizar en 3 grandes temas de la certificación que debemos dominarlos completamente:
 - Escalación de privilegios en Linux
 - Escalación de privilegios en Windows 
@@ -145,9 +146,9 @@ De los siguientes lo que más recomiendo es el curso de Udemy de Tiberius y real
 Recomiendo aprender a encontrar las vulnerabilidades manualmente y luego buscarlas con las tools que mencionan en los cursos.
 
 * [hackingarticles](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
-* [hacktricks](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
-* [sushant747](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
-* [g0tmi1k.](https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/)
+* [hacktricks](https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist)
+* [sushant747](https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html)
+* [g0tmi1k.](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 * [room thm The Cyber Mentor](https://tryhackme.com/room/linuxprivescarena)
 * [room thm Tib3rius](https://tryhackme.com/room/linuxprivesc)
 * [curso Udemy The Cyber Mentor](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/)
