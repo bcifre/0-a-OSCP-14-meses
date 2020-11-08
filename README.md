@@ -26,7 +26,7 @@ Como ya lo mencioné, las bases de la seguridad informática se dividen en 3 gra
 Cada uno sabrá cuál es su background y cuales son los conocimientos que debe reforzar.
 
 Ésta es mi experiencia, a la fecha de hoy aún no he obtenido el OSCP, pero tomando en cuenta desde que comencé en esta aventura hasta la posible fecha de que obtenga la certificación, serían 14 meses de tener 0 conocimientos en seguridad hasta conseguir mi OSCP.
-En el caso de que comiences sin ningún conocimiento en ninguna de las 3 áreas anteriores, quzás te lleve un tiempo más pero bueno, todo depende de cada uno, de su velocidad de aprendizaje, de cuanto profundizamos en cada tema  y de cuánto tiempo le dediquemos a estudiar.
+En el caso de que comiences sin ningún conocimiento en ninguna de las 3 áreas anteriores, quizás te lleve un tiempo más pero bueno, todo depende de cada uno, de su velocidad de aprendizaje, de cuanto profundizamos en cada tema  y de cuánto tiempo le dediquemos a estudiar.
 
 Cuando decidí aprender sobre seguridad, el tiempo que dedicaba a estudiar por día fue de 2 a 3 horas 6 días a la semana en promedio, aveces más aveces menos.
 Principalmente éstos son los recursos que utilicé, en total fueron muchos más ya que aveces me interesaba aprender sobre un tema en particular y bueno,en esos casos Google es tu mejor amigo.
