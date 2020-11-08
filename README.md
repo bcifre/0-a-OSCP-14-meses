@@ -22,7 +22,7 @@ No es necesario ser experto en las 3 áreas pero sí tener conocimientos general
 
 Alguna vez tuvimos que tratar de entender como funciona un router, un switch, entender las diferentes capas del modelo OSI, es imposible profundizar en todo, pero aveces está bueno profundizar en algunos temas, en los que te dé mas curiosidad. Hay que tener curiosidad y ganas de aprender cuando uno quiere dedicarse a la seguridad, porque el camino es largo y algunas cosas son complicadas de entender.
 
-Como ya lo mencioné, las bases de la seguridad informática se dividen en 3 grandes ramas, en mi caso ya tenía cubierta el área de programación, aunque en mí opinion de las 3 ramas es la menos importante.
+Como ya lo mencioné, las bases de la seguridad informática se dividen en 3 grandes ramas, en mi caso ya tenía cubierta el área de programación, aunque en mí opinión de las 3 ramas es la menos importante.
 Cada uno sabrá cuál es su background y cuales son los conocimientos que debe reforzar.
 
 Ésta es mi experiencia, a la fecha de hoy aún no he obtenido el OSCP, pero tomando en cuenta desde que comencé en esta aventura hasta la posible fecha de que obtenga la certificación, serían 14 meses de tener 0 conocimientos en seguridad hasta conseguir mi OSCP.
