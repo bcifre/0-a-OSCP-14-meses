@@ -31,7 +31,7 @@ En el caso de que comiences sin ningún conocimiento en ninguna de las 3 áreas 
 Cuando decidí aprender sobre seguridad, el tiempo que dedicaba a estudiar por día fue de 2 a 3 horas 6 días a la semana en promedio, aveces más aveces menos.
 Principalmente éstos son los recursos que utilicé, en total fueron muchos más ya que aveces me interesaba aprender sobre un tema en particular y bueno,en esos casos Google es tu mejor amigo.
 
-No está de menos mencionar que es muy importante saber inglés ya que hay mucha más información y de mejor calidad, y las certificaciones son en ese idioma.
+Es muy importante saber inglés ya que hay mucha más información y de mejor calidad, y las certificaciones son en ese idioma.
 Mi nivel de inglés es el mínimo para poder leer, escuchar y entender, cuando comencé mi nivel era bajísimo y empezar a estudiar seguridad hizo que mejorara mi nivel, así que si tienes un nivel bajo en inglés te recomendaría dedicarle un tiempo extra a mejorar el idioma y así poder aprovechar mejor los recursos.
 
 Todo lo que está a continuación, son los mejores cursos que encontré y los hice o leí en su totalidad.
