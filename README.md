@@ -2,18 +2,21 @@
 
 A continuación voy a contar mi experiencia desde que decidí introducirme al mundo de la seguridad, hasta el día de hoy que me ecuentro en el mes 11, recibiendo hoy el material para realizar el curso [PWK(Penetration Testing with Kali Linux)](https://www.offensive-security.com/pwk-oscp/).
 
-Si todo sale segun lo planificado en febrero del 2021 estaré dando el examen.
+Si todo sale según lo planificado en febrero del 2021 estaré dando el examen.
 
 # Conocimientos previos (8 meses)
 Cuando decidí introducirme en el mundo de la seguridad, tenía un background de 4 años como programador web (sin título universitario, 100% autodidacta), en los lenguajes de programación php y javascript principalmente.
-Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) por casualidad en Youtube y me dió curiosidad de aprender sobre hacking.
+Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) por casualidad en Youtube y me dió curiosidad aprender sobre hacking.
 
-El hecho de no entender nada de los videos que subía sobre Hack the Box, hizo que me interesara por la seguridad, particularmente el pentesting.A medida que iba investigando sobre seguridad me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP, no sabía python, ni bash, ni powershell, no entendía como funcionaba el protocolo http, no entendía como funcionaban los puertos de una computadora, sólo sabía que http funcionabas en el puerto 80 pero no sabía que era un puerto, ni sabía cual era la diferencia entre http y https, solo que https era más seguro que http pero no sabía porqué.
+El hecho de no entender nada de los videos que subía sobre Hack the Box, hizo que me interesara por la seguridad, particularmente el pentesting.A medida que iba investigando me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP, no sabía python, ni bash, ni powershell, no entendía como funcionaba el protocolo http, no entendía como funcionaban los puertos de una computadora, sólo sabía que http funcionaba en el puerto 80 pero no sabía que era un puerto, ni sabía cual era la diferencia entre http y https, solo que https era más seguro que http pero no sabía porqué.
 
 Ya tenía algunos años de experiencia como programador pero no estaba cerca de ser un programador avanzado, el conocimiento que tenía era por la experiencia que había obtenido en esos años de trabajo y lo que había aprendido de manera autodidacta.
 
 Aclaro éstas cosas para tener una idea de cuales eran mis conocimientos en mi punto de partida, ya que cuando uno comienza a aprender sobre seguridad no sabe por donde empezar y nos preguntamos cuáles son los conociminetos previos que necesitamos para subir al siguiente nivel.
-Basicamente para querer aprender sobre seguridad, especificamente pentesting que es sobre lo que se trata la certificación OSCP, debemos aprender 3 grandes ramas de la computación: Redes de computadoras, administración de sistemas (Linux y Windows) y programación.
+Basicamente para querer aprender sobre seguridad, especificamente pentesting que es sobre lo que se trata la certificación OSCP, debemos aprender 3 grandes ramas de la computación: 
+- Redes de computadoras
+- Administración de sistemas (Linux y Windows) 
+- Programación.
 No es necesario ser experto en las 3 áreas pero sí tener conocimientos generales sobre las mismas, debemos entender  el protocolo TCP-IP, sebemos saber cuales son los principales servicios que tiene un servidor, debemos saber sobe DNS, HTTP, FTP, SMTP, SSH, etc.
 
 Alguna vez tuvimos que tratar de entender como funciona un router, un swith, entender las diferentes capas del modelo OSI, es imposible profundizar en todo, pero aveces está bueno profundizar en algunos temas, en los que te dé mas curiosidad, hay que tener curiosidad y ganas de aprender cuando uno quiere aprender seguridad, porque es la única manera de mantenerse aprendiendo y con la motivación para seguir adelante y no sentirse abrumado con tantas cosas por aprender.
