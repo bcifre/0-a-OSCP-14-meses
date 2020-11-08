@@ -117,7 +117,7 @@ El segundo mes pagué una suscripción en [Try Hack Me](https://tryhackme.com/) 
 Me sobró tiempo en ese mes y aproveché para hacer otros rooms, para tener una idea hice 4900 puntos en ese mes.
 Tambíen estuve haciendo el reto [Bandit](https://overthewire.org/wargames/bandit/) de OverTheWire para practicar un poco de bash.
 
-# Mes 3
+## Mes 3
 
 En el último mes de mi preparación, pagué una suscripción en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 26 usuarios y 28 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas sólo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
 A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de Writeup en Notion.
