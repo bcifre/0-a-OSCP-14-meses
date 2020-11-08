@@ -34,9 +34,9 @@ Principalmente éstos son los recursos que utilicé, en total fueron muchos más
 No está de menos mencionar que es muy importante saber inglés ya que hay mucha más información y de mejor calidad, y las certficaciónes son en ese idioma.
 Mi nivel de inglés es el mínimo para poder leer, escuchar y entender, cuando comencé mi nivel era bajísimo y empezar a estudiar seguridad hizo que mejorara mi nivel, así que si tienes un nivel bajo en inglés te recomendaría dedicarle un tiempo extra a mejorar el idioma y así poder aprovechar mejor los recursos.
 
-Todo lo que nombro a continuación, son los mejores cursos que encontré y los hice o leí en su totalidad.
+Todo lo que está a continuación, son los mejores cursos que encontré y los hice o leí en su totalidad.
 Recomiendo mucho leer el libro de Kurose y mirar el curso de Facultad de Ingeniería, para aquellos que no tengan conocimientos en redes de computadoras.
-
+Es imposible que en tan poco tiempo puedas retener toda ésta información, yo no lo hice, pero cuando te encuentres con algunos de estos temas te vas a acordar que lo viste y vas a saber donde buscar.
 
 ## Networking
 
