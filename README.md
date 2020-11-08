@@ -185,7 +185,7 @@ Otra cosa que recomiendo es trabajar en la metodología, en mi último mes de mi
 - Enumeración del sistema (windows o linux)
 - Escalada de privilegios para conseguir el usuario con máximos privilegios.
 
-Algo que no he nombrado hasta ahora y que es muy importante es la enumeración, es la parte menos metódica (en mi opinión) porque depende mucho de los vectores de ataque que siempre son diferentes, ésta es la parte en la que debemos parar y aprender los temas nuevos.
+Algo que no he nombrado hasta ahora y que es muy importante es la enumeración, es la parte más complicada (en mi opinión) porque depende mucho de los vectores de ataque que siempre son diferentes, ésta es la parte en la que debemos parar y aprender los temas nuevos que se nos van presentando.
 
 Llevandolo a un ejemplo, estamos enumerando una máquina y nos encontramos con el puerto 1433 y nmap nos dice que es Microsoft SQL Server, si nunca intentamos explotar ese servicio, vamos a tener que investigar de que se trata y si tiene alguna vulnerabilidad, como la mayoría de las máquinas tienen vectores de ataque diferente, es un proceso que vamos a tener que repetir.
 
