@@ -1,12 +1,13 @@
 # De 0 a OSCP en 14 meses?
 
 A continuación voy a contar mi experiencia desde que decidí introducirme al mundo de la seguridad, hasta el día de hoy que me ecuentro en el mes 11, recibiendo hoy el material para realizar el curso [PWK(Penetration Testing with Kali Linux)](https://www.offensive-security.com/pwk-oscp/).
+
 Si todo sale segun lo planificado en febrero del 2021 estaré dando el examen.
 
 # Conocimientos previos (8 meses)
-Cuando decidí introducirme en el mundo de la seguridad, tenía un background de 4 años como programador web(sin título universitario, 100% autodidacta), en los lenguajes de programación php y javascript principalmente.
-Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) por casualidad en Youtube y me dió curiosidad de aprender sobre hacking y el hecho de no entender nada de los videos que subía sobre Hack the Box, empecé a interesarme por la seguridad y empezar a estudiar las bases ya que no tengo un título universitario, practicamente el conocimiento que tenía en programación lo había obtenido como autodidacta y experiencia de trabajo.
-A medida que iba investigando sobre seguridad me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP.
+Cuando decidí introducirme en el mundo de la seguridad, tenía un background de 4 años como programador web (sin título universitario, 100% autodidacta), en los lenguajes de programación php y javascript principalmente.
+Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) por casualidad en Youtube y me dió curiosidad de aprender sobre hacking.
+El hecho de no entender nada de los videos que subía sobre Hack the Box, hizo que me interesara por la seguridad, particularmente el pentesting.A medida que iba investigando sobre seguridad me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP.
 No sabía python, ni bash, ni powershell, no entendía como funcionaba el protocolo http, no entendía como funcionaban los puertos de una computadora, sólo sabía que http funcionabas en el puerto 80 pero no sabía que era un puerto, ni sabía cual era la diferencia entre http y https, sólo que https era más seguro que http pero no sabía porqué.
 Ya tenía algunos años de experiencia como programador pero no estaba cerca de ser un programador avanzado.
 El tiempo que dedicaba a estudiar por día en este período fué de 2 a 3 horas por día 6 días a la semana en promedio, aveces más aveces menos.
