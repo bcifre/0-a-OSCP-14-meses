@@ -1,19 +1,19 @@
 # De 0 a OSCP en 14 meses?
 
-A continuación voy a contar mi experiencia desde que decidí introducirme al mundo de la seguridad, hasta el día de hoy que me ecuentro en el mes 11, recibiendo hoy el material para realizar el curso [PWK(Penetration Testing with Kali Linux)](https://www.offensive-security.com/pwk-oscp/).
+A continuación voy a contar mi experiencia desde que decidí introducirme al mundo de la seguridad, hasta el día de hoy que me encuentro en el mes 11, recibiendo hoy el material para realizar el curso [PWK(Penetration Testing with Kali Linux)](https://www.offensive-security.com/pwk-oscp/).
 
 Si todo sale según lo planificado en febrero del 2021 estaré dando el examen.
 
 # Conocimientos previos (8 meses)
 Cuando decidí introducirme en el mundo de la seguridad, tenía un background de 4 años como programador web (sin título universitario, 100% autodidacta), en los lenguajes de programación php y javascript principalmente.
-Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) por casualidad en Youtube y me dió curiosidad aprender sobre hacking.
+Conocí el pentesting gracias a los videos de [Julio Ureña](https://www.youtube.com/channel/UC2o1vzpUIvgf0VMJIMKZ_rQ) por casualidad en Youtube y me dio curiosidad aprender sobre hacking.
 
-El hecho de no entender nada de los videos que subía sobre Hack the Box, hizo que me interesara por la seguridad, particularmente el pentesting.A medida que iba investigando me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP, no sabía python, ni bash, ni powershell, no entendía como funcionaba el protocolo http, no entendía como funcionaban los puertos de una computadora, sólo sabía que http funcionaba en el puerto 80 pero no sabía que era un puerto, ni sabía cual era la diferencia entre http y https, solo que https era más seguro que http pero no sabía porqué.
+El hecho de no entender nada de los videos que subía sobre Hack the Box, hizo que me interesara por la seguridad, particularmente el pentesting.A medida que iba investigando me daba cuenta que necesitaba reforzar esos conocimientos base sobre redes y administración de sistemas, para tener una idea en el momento que decidí aprender seguridad no sabía absolutamente nada de linux, no tenía idea que era TCP-IP, no sabía python, ni bash, ni powershell, no entendía como funcionaba el protocolo http, no entendía como funcionaban los puertos de una computadora, solo sabía que http funcionaba en el puerto 80 pero no sabía que era un puerto, ni sabía cual era la diferencia entre http y https, solo que https era más seguro que http pero no sabía porqué.
 
 Ya tenía algunos años de experiencia como programador pero no estaba cerca de ser un programador avanzado, el conocimiento que tenía era por la experiencia que había obtenido en esos años de trabajo y lo que había aprendido de manera autodidacta.
 
-Aclaro éstas cosas para tener una idea de cuales eran mis conocimientos en mi punto de partida, ya que cuando uno comienza a aprender sobre seguridad no sabe por donde empezar y nos preguntamos cuáles son los conociminetos previos que necesitamos para subir al siguiente nivel.
-Basicamente para querer aprender sobre seguridad, especificamente pentesting que es sobre lo que se trata la certificación OSCP, debemos aprender 3 grandes ramas de la computación: 
+Aclaro estas cosas para tener una idea de cuales eran mis conocimientos en mi punto de partida, ya que cuando uno comienza a aprender sobre seguridad no sabe por donde empezar y nos preguntamos cuáles son los conociminetos previos que necesitamos para subir al siguiente nivel.
+Básicamente para querer aprender sobre seguridad, específicamente pentesting que es sobre lo que se trata la certificación OSCP, debemos aprender 3 grandes ramas de la computación: 
 - Redes de computadoras
 - Administración de sistemas (Linux y Windows) 
 - Programación.
@@ -116,7 +116,7 @@ Para tener una idea de cuáles eran mis conocimientos en éste punto más que na
 El primer mes me dediqué a mirar todos los videos que pude sobre las máquinas que recomiendan de Hack The Box para el oscp ([Lista de NetSecFocus de maquinas recomendadas](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)).
 Las cosas que veía que no entendía las anotaba y luego profundizaba pero no mucho ya que el primer mes quería tener un pantallazo general de lo todo lo que necesitaba aprender, ya que la mayoría de maquinas tienen un vector de ataque diferente.
 
-Éste mes no intenté resolver ninguna máquina, sólo miré videos y profundizaba un poco en los temas que me interesaban o no tenía claro y seguia con el siguiente video.
+Éste mes no intenté resolver ninguna máquina, solo miré videos y profundizaba un poco en los temas que me interesaban o no tenía claro y seguia con el siguiente video.
 Los videos de [Victor García](https://www.youtube.com/c/takito1812/videos) son los que me ayudaron más porque son videos cortos que van directo a la solución de la máquina, y en el caso de querer profundizar en conceptos utilizaba google, los videos de [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) y [s4vitar](https://www.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q)
 
 
@@ -128,7 +128,7 @@ Tambíen estuve haciendo el reto [Bandit](https://overthewire.org/wargames/bandi
 
 ## Mes 3
 
-En el último mes de mi preparación, pagué una suscripción en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 26 usuarios y 28 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas sólo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
+En el último mes de mi preparación, pagué una suscripción en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 26 usuarios y 28 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas solo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
 A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de writeup en Notion (muy importante practicar ésto).
 
 Éste mes también me dediqué a profundizar en 3 grandes temas de la certificación que debemos dominarlos completamente:
@@ -206,7 +206,7 @@ Consejos adicionales y cosas que creo que debes sentirte cómodo:
 - sentirse cómodo con tools como nmap, tools de directory bruteforcing, tools como hydra y john the ripper para password cracking y bruteforcing, tools de escalación de privilegios que vas a aprender en los cursos que te pasé
 - sentirse cómodo compartiendo archivos entre kali linux y la máquina victima, como por ejemplo levantando un servidor smb, levantando un servidor http y luego desde la máquina víctima obtener los archivos como con wget, curl, downloadString de powershell, certutil, scp, ftp, etc.
 - debemos sentirnos cómodos creando reverse shells con netcat, nishang, webshells, etc.
-- no usar metasplot, usarlo sólo en algunas máquinas como prueba de concepto pero sólo eso, para aprender a usarlo.
+- no usar metasplot, usarlo solo en algunas máquinas como prueba de concepto pero solo eso, para aprender a usarlo.
 
 Siento que quizaś me faltó un més más de preparación para intentar resolver más máquinas sin ayuda, ya que la mayoría las hice con alguna pista, pero bueno la realidad es que nunca vas a sentirte 100% preparado.
 El plan para estos 3 meses es trabajar aún más en mi metodología, tratar de ordenar todos los apuntes y comandos que tengo, hacer un mindmap de escalación de privilegios en windows y linux, hacer todos los ejercicios del material y tratar de hacer todas las máquinas que pueda, pero siempre centrandome en la metodología que es lo más importante.
@@ -218,7 +218,7 @@ La seguridad es un área muy apasionante pero se requiere mucha dedicación y mu
 
 Por momentos en toda ésta experiencia me sentí muy estresado, sentía que era demasiado para mi, mucho por aprender con la poca base que tenía.
 Cuando te sientas así descansa un poco, desconecta totalmente y luego vuelve con todo.
-Algunos temas nos van a llevar más tiempo, y otros menos, no está mal dedicarle algunos días a aprender sólo algún tema en particular.
+Algunos temas nos van a llevar más tiempo, y otros menos, no está mal dedicarle algunos días a aprender solo algún tema en particular.
 
 Es muy satifactorio mirar hacia atras y ver todo lo que aprendiste, y realmente en mi opinión y la de muchos también, si te interesa la seguridad ir por el OSCP es el primer paso, y realmente vale la pena porque se aprende mucho en el camino.
 
