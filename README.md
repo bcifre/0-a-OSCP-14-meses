@@ -224,6 +224,7 @@ Es muy satifactorio mirar hacia atras y ver todo lo que aprendiste, y realmente 
 
 Sé que estoy escribiendo como que ya conseguí la certificación, pero bueno, siento que me he preparado bien y vengo a buen ritmo, me quedan los 3 meses más importantes y creo que van a ser suficientes ya que reducí mi horario de trabajo y voy a poder dedicarle unas 6 o 7 horas por día de estudio.
 
+Espero que ésto te sirva para tener una idea del tiempo que lleva poder prepararse bien para la certificación.
 
 
 
