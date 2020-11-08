@@ -129,7 +129,7 @@ Tambíen estuve haciendo el reto [Bandit](https://overthewire.org/wargames/bandi
 ## Mes 3
 
 En el último mes de mi preparación, pagué una suscripción en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 26 usuarios y 28 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas solo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
-A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de writeup en Notion (muy importante practicar ésto).
+A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de writeup en Notion (muy importante practicar esto).
 
 Éste mes también me dediqué a profundizar en 3 grandes temas de la certificación que debemos dominarlos completamente:
 - Escalación de privilegios en Linux
@@ -155,7 +155,7 @@ Recomiendo aprender a encontrar las vulnerabilidades manualmente y luego buscarl
 * [curso Udemy Tib3rius](https://www.udemy.com/course/linux-privilege-escalation/)
 
 ### Escalación de privilegios en Windows:
-Igual que con linux, lo que más recomiendo es el curso de Tiberius y los rooms de tryhackme, en mi opinión es más dificil la escalación de privilegios en windows, ya que windows es más complicado como maneja el tema de los permisos.
+Igual que con linux, lo que más recomiendo es el curso de Tiberius y los rooms de tryhackme, en mi opinión es más difícil la escalación de privilegios en windows, ya que windows es más complicado como maneja el tema de los permisos.
 He visto que muchos recomiendan dedicarle más tiempo a windows y estoy de acuerdo con eso.
 
 * [absolomb](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
@@ -169,7 +169,7 @@ He visto que muchos recomiendan dedicarle más tiempo a windows y estoy de acuer
 * [charla ekoparty 2020](https://www.youtube.com/watch?v=9hD_Kf9hdZw&list=PLIcYJYYAJ6bm5X6Pb3iSXbSmsrO5xf6kN&index=9&t=1123s&ab_channel=ekopartysecurityconference)
 
 ### Buffer overflow
-Cuando ves por primera vez buffer overflow pensas que es algo que está fuera del alcance siendo principiante, pero realmente es uno de los temas más faciles ya que es muy metódico.
+Cuando ves por primera vez buffer overflow, piensas que es algo que está fuera del alcance siendo principiante, pero realmente es uno de los temas más faciles ya que es muy metódico.
 Simplemente hay que seguir una serie de pasos y siempre es igual.
 Recomiendo mucho el room de tryhackme de tiberius, tiene 10 ejercicios y te aseguro que después de hacer los 10 vas a ver que no es nada complicado, y es un 25% del examen.
 También recomiendo hacer brainpan1, gatekeeper, brainstorm que son parte del path que hice en el mes 2, pero recomiendo dejalos para después de hacer el room de tib3rius.
