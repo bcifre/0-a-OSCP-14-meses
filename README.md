@@ -193,7 +193,7 @@ Consejos adicionales y cosas que creo que debes sentirte cómodo:
 - bash scripting
 - powershell y cmd (recomiendo el room de powershell en tryhackme)
 - leer código en python
-- sentirse cómodo con tools como nmap, tools de directory bruteforcing, tools de brouteforce como hydra, password cracking, tools de escalamiento de privilegios que vas a aprender en los cursos que te pasé
+- sentirse cómodo con tools como nmap, tools de directory bruteforcing, tools como hydra y john the ripper para password cracking y bruteforcing, tools de escalación de privilegios que vas a aprender en los cursos que te pasé
 - sentirse cómodo compartiendo archivos entre kali linux y la máquina victima, como por ejemplo levantando un servidor smb, levantando un servidor http y luego desde la máquina víctima obtener los archivos como con wget, curl, downloadString de powershell, certutil, scp, ftp, etc.
 - debemos sentirnos cómodos creando reverse shells con netcat, nishang, webshells, etc.
 - no usar metasplot, usarlo sólo en algunas máquinas como prueba de concepto pero sólo eso, para aprender a usarlo.
