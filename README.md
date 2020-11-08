@@ -168,12 +168,12 @@ Les dejo un [video de tib3rius explicando su room](https://www.youtube.com/watch
 * [buffer overflow tryhackme](https://tryhackme.com/room/bufferoverflowprep)
 * [brainpan1](https://tryhackme.com/room/brainpan)
 * [gatekeeper](https://tryhackme.com/room/gatekeeper)
-* [brainstorm](https://tryhackme.com/room/brainstorm)(necesita suscripción)
+* [brainstorm](https://tryhackme.com/room/brainstorm) (necesita suscripción)
 
 
 ### Comentarios finales
 
-Si vemos el [temario](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf) del OSCP, 3 de los principales temas de la certificación son buffer overflow, escalación de privilegios en linux, y escalación de privilegios en windows, es muy importante sentirse cómodo con estos 3 temas para aprovechar al máximo la certificación.
+Si vemos el [temario](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf) del OSCP, 3 de los principales temas de la certificación son **buffer overflow**, **escalación de privilegios en linux**, y **escalación de privilegios en windows**, es muy importante sentirse cómodo con estos 3 temas para aprovechar al máximo la certificación.
 
 Algo que recomiendo es no dedicarle mucho tiempo a a ataques de active directory, ya que no va para el examen.
 Sí está bueno aprender lo básico y luego centrarse en el material del curso,ya que es un tema muy extenso y es mejor centrarse en otros temas, como los 3 que mencioné.
