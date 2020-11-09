@@ -42,7 +42,7 @@ En algunos casos tuve que volver a ver o leer algunos temas varias veces.
 ## Networking
 
 * [thenewboston (Youtube)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
-* [Ben Eater (Youtube)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
+* [Ben Eater (Youtube)](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&ab_channel=BenEater)
 * [Curso de redes de Facultad de Ingeniería](https://open.fing.edu.uy/courses/redes-2020/1)
 * [routergods (Youtube)](https://www.youtube.com/watch?v=B_VOGH5GJhw&list=PLB81131936C01C592&index=3&ab_channel=routergods)
 * [Curso CompTIA Network+ (Youtube)](https://www.youtube.com/watch?v=vrh0epPAC5w&list=PLIcYJYYAJ6bm5X6Pb3iSXbSmsrO5xf6kN&index=17&t=274s&ab_channel=PowerCertAnimatedVideos)
