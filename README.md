@@ -1,5 +1,4 @@
-Video:
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+# [Video](https://www.youtube.com/watch?v=XaGXPObx2Gs&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&ab_channel=BenEater)
 
 # De 0 a OSCP en 14 meses?
 
