@@ -129,7 +129,7 @@ Tambíén estuve haciendo el reto [Bandit](https://overthewire.org/wargames/band
 
 ## Mes 3
 
-En el último mes de mi preparación, pagué una suscripción en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 26 usuarios y 28 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas solo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
+En el último mes de mi preparación, pagué una suscripción en Hack The Box y me dediqué a resolver todas las máquinas que pude, en total pude conseguir 28 usuarios y 26 roots, un 60% de las máquinas las hice con ayuda pero hice lo mismo que con las máquinas de TryHackMe, intentaba hacerlas solo y en el caso de no poder hacerlas buscaba una pista y luego seguía.
 A medida que iba resolviendo las máquinas iba trabajando en mi metodoloǵia, sacando apuntes y capturas de pantallas a modo de writeup en Notion (muy importante practicar esto).
 
 Éste mes también me dediqué a profundizar en 3 grandes temas de la certificación que debemos dominarlos completamente:
